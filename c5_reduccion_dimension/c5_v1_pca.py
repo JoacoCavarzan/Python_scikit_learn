@@ -29,4 +29,3 @@ plt.show()
 wine_reduced_data = pca_wine_data[:, :8]
 wine_reduced_data_df = pd.DataFrame(wine_reduced_data)
 print(wine_reduced_data_df)
-
