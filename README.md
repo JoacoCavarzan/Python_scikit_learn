@@ -2,20 +2,30 @@
 
 Este es el repositorio del curso de LinkedIn Learning Domina Python: Scikit-learn. El curso completo está disponible en [LinkedIn Learning](https://www.linkedin.com/learning/domina-python-scikit-learn/scikit-learn-y-python).
 
-Instalación
-Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
+<h2>🛠️ Instalación</h2>
 
+<ol>
+  <li>Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:</li>
+</ol>
 Python
 Editor de código como VS Code o PyCharm
-Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
+<ol>
+  <li>Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.</li>
+</ol>
 
-Crea un ambiente virtual de Python, puedes hacerlo con virtualenv usando los comandos
+<ol>
+  <li>Crea un ambiente virtual de Python, puedes hacerlo con virtualenv usando los comandos:</li>
+</ol>
 
  pip install virtualenv
  virtualenv <reemplazar por nombre del ambiente>
-Instala las librerías con el comando
+<ol>
+  <li>Instala las librerías con el comando</li>
+</ol>
 
  pip install -r requirements.txt
-Corre cada archivo con el comando
+<ol>
+  <li>Corre cada archivo con el comando</li>
+</ol>
 
 python <nombre_archivo>
